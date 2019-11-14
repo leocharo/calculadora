@@ -1,4 +1,6 @@
 # Calculadora Científica
+![Calculadora](calculadora.png "Calculadora")
+
 ## Pasos para ejecutar la calculadora
 - Tener instalado una version mayor o igual a java 1.8.
 - Descargar el archivo
