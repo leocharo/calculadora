@@ -5,14 +5,17 @@ com/senati/calculadora/Calculadora$38.class
 com/senati/calculadora/Calculadora$28.class
 com/senati/calculadora/Calculadora$18.class
 com/senati/calculadora/Calculadora$48.class
+com/senati/calculadora/TipoGrado.class
 com/senati/calculadora/Calculadora.class
 com/senati/calculadora/Calculadora$35.class
 com/senati/calculadora/Calculadora$25.class
 com/senati/calculadora/Calculadora$7.class
 com/senati/calculadora/Calculadora$45.class
 com/senati/calculadora/Calculadora$15.class
+com/senati/calculadora/TipoOperacion.class
 com/senati/calculadora/Calculadora$22.class
 com/senati/calculadora/Calculadora$4.class
+com/senati/calculadora/Operacion$1.class
 com/senati/calculadora/Calculadora$42.class
 com/senati/calculadora/Calculadora$37.class
 com/senati/calculadora/Calculadora$17.class
@@ -33,6 +36,7 @@ com/senati/calculadora/Calculadora$23.class
 com/senati/calculadora/Calculadora$5.class
 com/senati/calculadora/Calculadora$40.class
 com/senati/calculadora/Calculadora$30.class
+com/senati/calculadora/Calculadora$50.class
 com/senati/calculadora/Calculadora$20.class
 com/senati/calculadora/Calculadora$10.class
 com/senati/calculadora/Calculadora$2.class
@@ -44,6 +48,7 @@ com/senati/calculadora/Calculadora$47.class
 com/senati/calculadora/Calculadora$44.class
 com/senati/calculadora/Calculadora$6.class
 com/senati/calculadora/Calculadora$16.class
+com/senati/calculadora/Operacion.class
 com/senati/calculadora/Calculadora$21.class
 com/senati/calculadora/Calculadora$24.class
 com/senati/calculadora/Calculadora$39.class
